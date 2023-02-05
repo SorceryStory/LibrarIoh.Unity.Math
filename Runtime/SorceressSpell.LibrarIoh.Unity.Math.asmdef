@@ -1,0 +1,16 @@
+{
+    "name": "SorceressSpell.LibrarIoh.Unity.Math",
+    "rootNamespace": "SorceressSpell.LibrarIoh.Unity.Math",
+    "references": [
+        "SorceressSpell.LibrarIoh.Math"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
